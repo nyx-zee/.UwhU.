@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Docsify Preview",
+      "preLaunchTask": "Browser",
+      "command": "docsify serve docs",
+      "type": "node-terminal",
+      "request": "launch"
+    }
+  ]
+}
