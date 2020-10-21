@@ -1,6 +1,6 @@
 # How to ~~o~~Wormhole
 
-So the [Domain of Pochven][1] is finally anchored and realized just as Zowya wanted, but the Convocation of Triglav feels that normal stargates are rather passé and so had them [jammed full of rakovene to shut them off][6].
+The [Domain of Pochven][1] is finally anchored and realized just as Zowya wanted, but the Convocation of Triglav feels that normal stargates are rather passé and so had them [jammed full of rakovene to shut them off][6].
 
 In the absence of an abundant supply of ['Krai' and 'Pochven' filaments][2], we're left to Prove ourselves in the navigation of wormhole space if we wish to move between New Eden and Pochven, as wormholes are the only other means of entry into Triglavian space.
 
@@ -10,8 +10,12 @@ Wormhole space in general is a rather vast topic. There are over 2,600 star syst
 
 # Getting Started
 
-## *If you just want to get there and someone else has already found a path...*
+This guide is split to serve two different audiences.
+### ***If you just want to get to Pochven and someone else has already found a path...***
+
+then proceed to the **[Basic Guide to Getting There][13]**.
 <br>
+
 1. Familiarize yourself with the nature of [wormhole space][8] to understand the rules and risks.
 
    The following points are especially important:
@@ -39,7 +43,7 @@ Wormhole space in general is a rather vast topic. There are over 2,600 star syst
 
 2. Prepare your ship for travel.
  
-   Consider including a probe launcher, probes, a mobile depot, and a needlejack filament in your cargohold.
+     Consider including a probe launcher, probes, a mobile depot, and a needlejack filament in your cargohold.
    
    For ships with no cloak, consider temporarily fitting an afterburner (rather than a MWD) for the final burn up to the Triglavian wormhole.
    
@@ -65,6 +69,9 @@ Wormhole space in general is a rather vast topic. There are over 2,600 star syst
 
 6. Emerging into Pochven, you will likely be met by drifter and sleeper NPCs. As long as you have prepared accordingly with fast align, warp core stabilization, or a cloak trick, you should be able to align out and warp to safety.
 
+   Welcome to the Domain of Pochven.
+
+   ![Shadow over a red star.](https://i.imgur.com/aOedCwr.png "Gold Immanence")
 
 [1]: https://wiki.eveuniversity.org/Pochven
 [2]: https://wiki.eveuniversity.org/Pochven#Pochven_Region_Filaments
@@ -78,3 +85,4 @@ Wormhole space in general is a rather vast topic. There are over 2,600 star syst
 [10]: https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-
 [11]: /Triglavian-wormhole-site.md
 [12]: https://i.imgur.com/D9hh2Yk.png
+[13]: /basic.md
