@@ -40,3 +40,9 @@ p {
   text-align: right;
   margin-bottom: 0;
 }
+
+/* Hide edit-page */
+.edit-page {
+ visibility: hidden;
+  position: absolute;
+}
