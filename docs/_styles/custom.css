@@ -7,8 +7,8 @@
 }
 
 /* Hide theme changer */
-#docsify-darklight-theme {
-  visibility: hidden;
+/*#docsify-darklight-theme {
+ visibility: hidden;
   position: absolute;
 }
 

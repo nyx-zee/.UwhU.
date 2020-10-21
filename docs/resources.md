@@ -7,7 +7,7 @@
 * [EVE Gatecamp Check][3] - Plan a route and discover recent deaths on gates, heavy interdictors, and smartbombs.
 
 ## Reading
-* ### [EVE University UNIWIKI][4]
+* [EVE University UNIWIKI][4]
   * [Wormholes][5]
     * [Wormhole Classification][6]
     * [Wormhole Weather][7]

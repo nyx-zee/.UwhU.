@@ -15,7 +15,10 @@ This guide is split to serve two different audiences.
 ***If you just want to get to Pochven and someone else has already found a path...***
 
 then proceed to the **[Basic Guide to Getting There][7]**.
-<br>
+
+***If you are interested in helping find new paths through Anoikis and learning to use Pathfinder...***
+
+then proceed to **[.UwhU.'s Guide to Anoikis][8]**.
 
 [1]: https://wiki.eveuniversity.org/Pochven
 [2]: https://i.imgur.com/PZ2ueuV.png
@@ -24,3 +27,4 @@ then proceed to the **[Basic Guide to Getting There][7]**.
 [5]: # "Wormhole space in the Anoikis galaxy - named for the fact that all but one wormhole star system is named in the format J######."
 [6]: /resources.md
 [7]: /basic.md
+[8]: /advanced.md
