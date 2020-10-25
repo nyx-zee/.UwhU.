@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The Basic Guide to Getting There
 
 1. Familiarize yourself with the nature of [wormhole space][1] to understand the rules and risks.
