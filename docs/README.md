@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # How to ~~o~~Wormhole
 
 The [Domain of Pochven][1] is finally anchored and realized just as Zowya wanted, but the Convocation of Triglav feels that normal stargates are rather passé and so had them [jammed full of rakovene to shut them off][2].
