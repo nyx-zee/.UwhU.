@@ -60,4 +60,3 @@ then proceed to **[.UwhU.'s Guide to Anoikis][8]**.
 [6]: /resources.md
 [7]: /basic.md
 [8]: /advanced.md
->>>>>>> 7af3d881ab3c460209cbe381319c4218417f5dbe
