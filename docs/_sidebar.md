@@ -1,2 +1,5 @@
-* [Home](/)
-* [Contributing](/contributing.md)
+- [Home](/)
+- [Basic Guide](/basic.md)
+- [Advanced](/advanced.md)
+- [Resources](/resources.md)
+- [Definitions](/definitions.md)
