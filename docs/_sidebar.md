@@ -1,5 +1,6 @@
 - [Home](/)
 - [Basic Guide](/basic.md)
 - [Advanced](/advanced.md)
+- [Bookmarking](/bookmarking.md)
 - [Resources](/resources.md)
 - [Definitions](/definitions.md)
